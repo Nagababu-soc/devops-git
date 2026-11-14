@@ -1,5 +1,6 @@
 Application Name: MeetFlow
 Frontend: React
-Backend: Node.js
+Backend: Node.JS
 Database: MySQL
+
 
